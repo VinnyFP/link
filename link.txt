@@ -1,0 +1,5 @@
+Link do perfil :
+https://github.com/VinnyFP
+
+git remote add origin https://github.com/VinnyFP/link.git
+git push -u origin master
